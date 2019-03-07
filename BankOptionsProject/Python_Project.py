@@ -1,5 +1,4 @@
 # Author : Bahaulddin Shammary
-# Student ID: R00160858
 # Subject: Python Project
 
 from random import randrange  # This is used later to create new bank account numbers
